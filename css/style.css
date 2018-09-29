@@ -6,9 +6,9 @@
 h1 {
   font-weight: Normal;
   font-size: 50px;
-  color: White;
   align: Center;
 }
+
 body {
   background-color: Black;
   text-align: center;
@@ -18,12 +18,17 @@ a {
   text-align: center;
   font-size: 16px;
 }
+
 h2 {
   font-size: 42px;
   font-weight: 300px;
-  color: White;
 }
+
 #Two {
   color: Gray;
+}
+
+h1, h2, #coming {
+  color: White;
   font-size: 21px;
 }
