@@ -13,7 +13,7 @@ body {
   background-color: Black;
   text-align: center;
 }
-a {
+a, #link {
   color: Aquamarine;
   text-align: center;
   font-size: 16px;
@@ -24,11 +24,16 @@ h2 {
   font-weight: 300px;
 }
 
-#Two {
+#Two, #Footer {
   color: Gray;
 }
 
 h1, h2, #coming {
   color: White;
+  font-size: 21px;
+}
+div {
+  color: Gray;
+  text-align: Right;
   font-size: 21px;
 }
